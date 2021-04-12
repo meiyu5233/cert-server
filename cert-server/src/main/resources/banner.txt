@@ -1,4 +1,4 @@
-${AnsiColor.BLUE}
+﻿${AnsiColor.BLUE}
                             _ooOoo_
                            o8888888o
                            88" . "88
@@ -19,4 +19,4 @@ ${AnsiColor.BLUE}
                              `=---='
         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 佛祖保佑                   永无BUG
-                      bf
+                      bf   nnnnn
